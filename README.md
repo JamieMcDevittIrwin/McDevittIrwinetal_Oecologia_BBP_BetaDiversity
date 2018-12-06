@@ -1,0 +1,1 @@
+# McDevittIrwinetal_2019_DiversityPatterns
