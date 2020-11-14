@@ -1,5 +1,3 @@
-# McDevittIrwinetal_2019_DiversityPatterns
+# Read Me
 
-
-
-This is the repository containg the code for McDevittIrwin etal. (2019) Coupled beta diversity patterns among coral reef benthic taxa. 
+This is the github repository containing the scripts for statistical analyses for McDevitt-Irwin et al. 2020. Coupled beta diversity patterns among coral reef benthic taxa. in Oecologia. 
